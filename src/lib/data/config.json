@@ -1,0 +1,52 @@
+{
+  "profile": {
+    "name": "Tigor Hutasuhut",
+    "role": "Senior Backend Engineer",
+    "tagline": "Building reliable, scalable systems",
+    "email": "tigor.hutasuhut@gmail.com",
+    "github": "https://github.com/tigorlazuardi",
+    "linkedin": "https://linkedin.com/in/tigor-hutasuhut"
+  },
+  "about": {
+    "bio": "Backend engineer with 7+ years of experience building distributed systems and APIs. Passionate about clean code, system reliability, and developer experience.",
+    "highlights": [
+      "Distributed systems & microservices",
+      "API design & optimization",
+      "Infrastructure as code",
+      "Self-hosting enthusiast"
+    ]
+  },
+  "experiences": [
+    {
+      "company": "PT Bareksa Marketplace Indonesia",
+      "role": "Senior Backend Engineer",
+      "period": "2019 - Present",
+      "highlights": [
+        "Led backend architecture for core services",
+        "Implemented CI/CD pipelines with Gitlab CI/CD",
+        "Mentored junior developers and fellow senior developers on best practices",
+        "Spearheaded observability improvements using OpenTelemetry and Grafana, reducing incident response times by 60%",
+        "Core platform team for SBN (Government Bonds) marketplace and Stock trading platform",
+        "Maintain core libraries used across multiple teams. Keeping them up-to-date with latest tech and best practices"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "items": ["Go", "TypeScript", "Node.js", "Lua", "Nix"]
+    },
+    {
+      "name": "Databases",
+      "items": ["PostgreSQL", "MySQL", "Redis", "MongoDB"]
+    },
+    {
+      "name": "Infrastructure",
+      "items": ["Docker", "Kubernetes", "AWS", "GCP", "Azure", "Kafka"]
+    },
+    {
+      "name": "Systems",
+      "items": ["NixOS", "Podman", "SystemD", "Self-hosting", "Nginx"]
+    }
+  ]
+}
