@@ -48,5 +48,55 @@
       "name": "Systems",
       "items": ["NixOS", "Podman", "SystemD", "Self-hosting", "Nginx"]
     }
+  ],
+  "projects": [
+    {
+      "name": "SBN (Government Bonds) Bareksa",
+      "description": "A marketplace platform for trading government bonds in Indonesia, providing users with a seamless experience to buy and sell SBNs.",
+      "tech": ["Go"],
+      "github": "",
+      "url": "",
+      "status": "active"
+    },
+    {
+      "name": "Stock Trading Bareksa",
+      "description": "A stock trading platform that allows users to trade stocks with real-time data and analytics.",
+      "tech": ["Go"],
+      "github": "",
+      "url": "",
+      "status": "active"
+    },
+    {
+      "name": "Bareksa Core Libraries",
+      "description": "A collection of core libraries used across multiple teams at Bareksa, ensuring consistency and best practices in development and abstracting hyperperformance optimizations, logging, error handling, and more.",
+      "tech": ["Go"],
+      "github": "",
+      "url": "",
+      "status": "active"
+    },
+    {
+      "name": "Grafana OpenTelemetry",
+      "description": "A custom integration for Grafana to enhance observability using OpenTelemetry, enabling better monitoring and tracing of distributed systems.",
+      "tech": ["Go", "NodeJS", "PHP", "Swift", "Kotlin", "WebJS"],
+      "github": "",
+      "url": "",
+      "status": "active"
+    },
+    {
+      "name": "Homeserver",
+      "description": "Homeserver to host all my personal services and applications like Paperless-ngx, Immich, Jellyfin, etc.",
+      "tech": ["NixOS", "Podman", "SystemD"],
+      "github": "https://github.com/tigorlazuardi/homeserver",
+      "url": "",
+      "status": "active"
+    },
+    {
+      "name": "Redmage",
+      "description": "Reddit Image Downloader - A tool to download images from Reddit posts with scheduling and filtering capabilities.",
+      "tech": ["Go", "HTMX", "Go-templ"],
+      "github": "https://github.com/tigorlazuardi/redmage",
+      "url": "",
+      "status": "archived"
+    }
   ]
 }
